@@ -1,2 +1,2 @@
 # puppet-playground
-Learning sandbox for Puppet
+Learning sandbox for Puppet code.
